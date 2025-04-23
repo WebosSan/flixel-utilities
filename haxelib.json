@@ -1,0 +1,24 @@
+{
+    "name": "flixel-utilities",
+    "url": "https://github.com/your-username/flixel-utilities",
+    "license": "MIT",
+    "tags": [
+      "flixel",
+      "utility",
+      "scripting",
+      "http",
+      "console",
+      "debug"
+    ],
+    "description": "A comprehensive collection of utilities for HaxeFlixel including scripting, HTTP requests, console formatting, and debugging tools",
+    "version": "1.0.0",
+    "releasenote": "Initial release with scripting engine, HTTP utilities, console formatting, and logging system",
+    "contributors": ["WebosSan"],
+    "classPath": "src/",
+    "dependencies": {
+      "flixel": "",
+      "rulescript": "",
+      "lime": "",
+      "openfl": ""
+    }
+  }
