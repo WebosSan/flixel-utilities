@@ -34,3 +34,4 @@ A comprehensive collection of utilities for HaxeFlixel game development, includi
 1. Install via haxelib:
 ```bash
 haxelib install flixel-utilities
+haxelib git rulescript https://github.com/Kriptel/RuleScript.git dev
